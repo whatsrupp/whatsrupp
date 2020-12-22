@@ -1,4 +1,6 @@
->As you start reading through this readme there's a tiny explosion in your peripherals. The shockwave ripples your face and for a moment you feel like a dog with its head out of a car window.
+**As you start reading through this readme there's a tiny explosion in your peripherals...**
+
+> The shockwave ripples your face and for a moment you feel like a dog with its head out of a car window.
 >
 > As your vision clears, you notice a paperclip with eyes hovering in your eyeline. 
 >
@@ -23,6 +25,8 @@ Feel free to browse my CV or any of the assorted rubbish that's on here.
 
 I'm trying to keep projects I care about up to date on [my website](https://www.nickrupp.co.uk/).
 
+![Amazonian Shield Bug on a leaf](bug.jpg)
+_Not all bugs are bad - here's a photo of a shield I found on a leaf in 2019. They're also known as stink bugs because they emit a zesty smell when frightened. Like a tiny skunk._
 
 <!--
 **whatsrupp/whatsrupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

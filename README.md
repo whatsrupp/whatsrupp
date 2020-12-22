@@ -14,7 +14,10 @@
 > 
 > "Fine" it says passive aggressively.
 > 
->It looks directly into your eyes as it inserts itself into the power outlet and starts sparking. It's body sizzles into a bright electric blue and with an explosion that looks like a minature Hiroshima mushrrom it takes out your harddrive and monitor.
+>It looks directly into your eyes as it inserts itself into the power outlet and starts sparking. Its body fireworks into a bright electric blue and with an explosion that looks like a minature Hiroshima mushrrom it takes out your harddrive and screen.
+>
+>Harrrowing. You were never the same again. 
+
 
 ### About Me:
 👋 I currently build data pipelines and all the warehouse goodness that goes with them at a company Land Tech. Great team, lots of shell, typescript, python, sql, webscraping and cloudformation.

@@ -1,4 +1,4 @@
-**As you start reading through this github profile there's a tiny explosion in your peripherals...**
+**As you start reading through this github profile there's a tiny explosion in your peripheral vision...**
 
 > The shockwave ripples the skin on your face and for a moment you feel like a dog with its head out of a car window.
 >

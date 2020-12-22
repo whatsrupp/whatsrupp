@@ -20,7 +20,7 @@
 
 
 ### About Me:
-👋 I currently build data pipelines and all the warehouse goodness that goes with them at a company Land Tech. Great team, lots of shell, typescript, python, sql, webscraping and cloudformation.
+👋 I currently build data pipelines and all the warehouse goodness that goes with them at a company called Land Tech. Great team, lots of shell, typescript, python, sql, webscraping and cloudformation.
 I'm currently quite backend and infra focused but dear lord I'm a sucker for a bit of react and a good css animation.
 
 
@@ -30,18 +30,3 @@ I'm trying to keep projects I care about up to date on [my website](https://www.
 
 ![Amazonian Shield Bug on a leaf](bug.jpg)
 _Not all bugs are bad - here's a photo of a shield bug I found on a leaf in 2019. They're also known as stink bugs because they emit a zesty smell when frightened. Like a tiny skunk._
-
-<!--
-**whatsrupp/whatsrupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

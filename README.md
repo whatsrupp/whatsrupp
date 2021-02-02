@@ -14,7 +14,7 @@
 > 
 > "Fine" it says passive aggressively.
 > 
->It looks directly into your eyes as it inserts itself into the power outlet and starts sparking. Its body fireworks into a bright electric blue and with an explosion that looks like a minature Hiroshima mushrrom it takes out your harddrive and screen.
+>It looks directly into your eyes as it inserts itself into the power outlet and starts sparking. Its body fireworks into a bright electric blue and with an explosion that looks like a minature Hiroshima mushroom it takes out your harddrive and screen.
 >
 >Harrrowing. You were never the same again. 
 

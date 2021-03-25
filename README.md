@@ -26,7 +26,7 @@ I'm currently quite backend and infra focused but dear lord I'm a sucker for a b
 
 Feel free to browse my [CV](https://github.com/whatsrupp/CV) or any of the other assorted crap that's on here. 
 
-I'm trying to keep projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say, try, I'm actually very bad at doing it consistently.
+I'm trying to keep projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say trying, I'm actually very bad at finding time for it consistently.
 
 ![Amazonian Shield Bug on a leaf](bug.jpg)
 _Not all bugs are bad - here's a photo of a shield bug I found on a leaf in 2019. They're also known as stink bugs because they emit a zesty smell when frightened. Like a tiny skunk._

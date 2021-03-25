@@ -8,7 +8,7 @@
 >
 > "Welcome to this github profile" it whispers threateningly.
 > 
-> "Would you mind starring a repo?" it asks politely, although its cold metallic eyes betray the command.
+> "Would you mind starring a repo?" it asks politely, although its cold metallic eyes betray the hidden command.
 > 
 > You've had enough. As you move to click the back button to leave the page the paperclip darts to your power output. Its conductive body is worryingly close to short circuiting your computer's power supply.
 > 

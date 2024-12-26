@@ -1,32 +1,11 @@
-**As you start reading through this github profile there's a tiny explosion in your peripheral vision...**
+# About Me:
+👋 Hiya, I'm currently helping school kids and uni students study for their exams at a company called Gizmo. We take their learning resources and transform them into fun games and quizzes using ai.
 
-> The shockwave ripples the skin on your face and for a moment you feel like a dog with its head out of a car window.
->
-> As your vision clears, you notice a paperclip with eyes hovering in your eyeline. 
->
-> ![clippy](clippy.png)
->
-> "Welcome to this github profile" it whispers threateningly.
-> 
-> "Would you mind starring a repo?" it asks politely, although its cold metallic eyes betray the hidden command.
-> 
-> You've had enough. As you move to click the back button to leave the page the paperclip darts to your power output. Its conductive body is worryingly close to short circuiting your computer's power supply.
-> 
-> "Fine" it says passive aggressively.
-> 
->It looks directly into your eyes as it inserts itself into the power outlet and starts sparking. Its body fireworks into a bright electric blue and with an explosion that looks like a minature Hiroshima mushroom it takes out your harddrive and screen.
->
->Harrrowing. You were never the same again. 
+Great team, lot of react, typescript, shell, docker, python, ai, sql and terraform. Send me a message if you want to collab/ join or have any ideas around helping people learn in a multiplayer way. 🪿
 
+## Other
 
-### About Me:
-👋 I currently build data pipelines and all the warehouse goodness that goes with them at a company called Land Tech. Great team, lots of shell, typescript, python, sql, webscraping and cloudformation.
-I'm currently quite backend and infra focused but dear lord I'm a sucker for a bit of react and a good css animation.
-
-
-Feel free to browse my [CV](https://github.com/whatsrupp/CV) or any of the other assorted crap that's on here. 
-
-I'm trying to keep projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say trying, I'm actually very bad at finding time for it consistently.
+Feel free to browse my [CV](https://github.com/whatsrupp/CV) or anything else on here -  I try to keep software projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say try... it's always a bit hard to find time isn't it
 
 ![Amazonian Shield Bug on a leaf](bug.jpg)
-_Not all bugs are bad - here's a photo of a shield bug I found on a leaf in 2019. They're also known as stink bugs because they emit a zesty smell when frightened. Like a tiny skunk._
+_Just to add to bugs in the repos, here's a shield bug I found on a leaf in 2019. They're also known as stink bugs because they emit a smell when frightened. Like a tiny skunk._

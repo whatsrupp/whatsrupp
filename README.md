@@ -5,7 +5,11 @@ Great team, lot of react, typescript, shell, docker, python, ai, sql and terrafo
 
 ## Other
 
-Feel free to browse my [CV](https://github.com/whatsrupp/CV) or anything else on here -  I try to keep software projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say try... it's always a bit hard to find time isn't it
+Feel free to browse my [CV](https://github.com/whatsrupp/CV) or anything else on here.
+
+I try to keep software projects I care about up to date on [my website](https://www.nickrupp.co.uk/). I say try...
+
+It's always a bit hard to find the time isn't it.
 
 ![Amazonian Shield Bug on a leaf](bug.jpg)
 _Just to add to bugs in the repos, here's a shield bug I found on a leaf in 2019. They're also known as stink bugs because they emit a smell when frightened. Like a tiny skunk._

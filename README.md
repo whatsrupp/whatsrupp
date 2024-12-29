@@ -1,5 +1,5 @@
 # About Me:
-👋 Hiya, I'm currently helping school kids and uni students study for their exams at a company called Gizmo. We take their learning resources and transform them into fun games and quizzes using ai.
+👋 I'm currently helping school kids and uni students study for their exams at a company called Gizmo. We take their learning resources and transform them into fun games and quizzes using ai.
 
 Great team, lot of react, typescript, shell, docker, python, ai, sql and terraform. Send me a message if you want to collab/ join or have any ideas around helping people learn in a multiplayer way. 🪿
 
